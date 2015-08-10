@@ -1,5 +1,5 @@
 {
     "name": "Payline Gateway",
     "description": "Simple Testing of payline api.",
-	"main": "send.php"
+	"main": "index.php"
 }
